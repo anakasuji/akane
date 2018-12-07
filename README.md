@@ -1,0 +1,2 @@
+# akane
+Data Journalism
